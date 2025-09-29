@@ -1,0 +1,5 @@
+{
+  "name": "new version image generation",
+  "description": "Generate highly customized images based on multiple reference photos, user-provided images, and detailed text prompts. Leverage AI to understand context, replace subjects, enhance prompts, and adapt to various output sizes.",
+  "requestFramePermissions": []
+}
